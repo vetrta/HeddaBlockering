@@ -1,8 +1,10 @@
 [Adblock Plus]
 ! Title:Webfilter Hedda Wisingskolan
+! Description: Filter för skolor i härnösand
 ! Version:1.0
-! Expires: 1 days
+! Expires: 1 day
 ! Syntax: AdBlock
+! Number of entries: 107
 !
 ||facebook.com^
 ||fb.com^
